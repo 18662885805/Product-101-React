@@ -1,0 +1,54 @@
+.reg-content {
+  max-width: 6.4rem;
+  margin: 0 auto;
+}
+.reg-content ul {
+  width: 5.78rem;
+  height: 1.92rem;
+  border: 1px solid #e5e7e8;
+  background: #fff;
+  margin: 0 auto;
+  margin-top:2rem;
+}
+.reg-content ul li {
+  height: 0.95rem;
+  position: relative;
+}
+.reg-content ul li.lifirst {
+  border-bottom: 1px solid #e5e7e8;
+}
+.reg-content ul li input {
+  padding-left: 1.24rem;
+  width: 4.54rem;
+  height: 100%;
+  font-size: 0.4rem;
+}
+.reg-content ul li span {
+  width: 1.23rem;
+  height: 0.49rem;
+  position: absolute;
+  top: 0.26rem;
+  left: 0;
+  border-right: 1px solid #676868;
+  color: #676868;
+  font-size: 0.25rem;
+  line-height: 0.49rem;
+  text-align: center;
+}
+.reg-content .footbox {
+  width: 4.65rem;
+  height: 0.65rem;
+  margin: 0 auto;
+}
+.reg-content .login-btn {
+  width: 4.65rem;
+  height: 0.65rem;
+  background: #ff6699;
+  color: #fff;
+  text-align: center;
+  line-height: 0.65rem;
+  border-radius: 8px;
+  display: block;
+  margin-top: 0.62rem;
+  font-size: 0.28rem;
+}

@@ -1,0 +1,31 @@
+[{
+	"title":"李子璇",
+	"id":7,
+	"name":"Pick Me Up!",
+    "imgUrl":"../assets/images/lizixuan1.jpg"
+},{
+	"title":"孟美岐",
+	"id":8,
+	"name":"撑腰",
+	"imgUrl":"../assets/images/mengmeiqi1.jpg"
+},{
+	"title":"吴宣仪",
+	"id":9,
+	"name":"Good Bye Baby",
+	"imgUrl":"../assets/images/wuxuanyi2.jpg"
+},{
+	"title":"杨芸晴",
+	"id":10,
+	"name":"普通的Disco",
+	"imgUrl":"../assets/images/yangyunqing1.jpg"
+},{
+	"title":"赖美云",
+	"id":11,
+	"name":"红昭愿",
+	"imgUrl":"../assets/images/laimeiyun3.jpg"
+},{
+	"title":"傅菁",
+	"id":12,
+	"name":"逆风",
+	"imgUrl":"../assets/images/fujing2.jpg"
+}]

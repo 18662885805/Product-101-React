@@ -1,0 +1,31 @@
+[{
+	"title":"刘人语",
+	"id":1,
+	"name":"越长大越孤单",
+	"imgUrl":"../assets/images/liurenyu2.jpg"
+},{
+	"title":"许靖韵",
+	"id":2,
+	"name":"K歌之王",
+	"imgUrl":"/../assets/images/xujingyun1.jpg"
+},{
+	"title":"吴映香",
+	"id":3,
+	"name":"Hero",
+	"imgUrl":"../assets/images/wuyingxiang1.jpg"
+},{
+	"title":"陈芳语",
+	"id":4,
+	"name":"逆光",
+	"imgUrl":"../assets/images/chenfangyu1.jpg"
+},{
+	"title":"段奥娟",
+	"id":5,
+	"name":"从前慢",
+	"imgUrl":"../assets/images/duanaojuan4.jpg"
+},{
+	"title":"蒋申",
+	"id":6,
+	"name":"摩天轮的眼泪",
+	"imgUrl":"/../assets/images/jiangshen1.jpg"
+}]

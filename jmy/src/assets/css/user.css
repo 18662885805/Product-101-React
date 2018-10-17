@@ -1,0 +1,12 @@
+*{ box-sizing: border-box;padding: 0;margin:0;}
+.userheader{ width:100%;height:3rem; background: #ff6699;margin-top:1.4rem;}
+#imgbox{ width:6.4rem;height: 2rem; margin:0 auto;
+display: flex; justify-content: space-around;align-items: center;}
+#imgbox div{ width:1.6rem; height:1.6rem;background: #ffcccc;border-radius:0.3rem;
+display: flex; justify-content: space-around;align-items: center;}
+#imgbox div img{width:1.3rem; height:1.3rem; }
+.user-box{ width:6.4rem;height:1rem; margin:0 auto;
+display: flex; justify-content: space-around;align-items: center;}
+.user-box p{ width:2rem; height: 0.6rem;background: #ffcccc; border-radius: 0.2rem;
+text-align: center;line-height: 0.6rem;}
+.user-box p span{color:#ff6699;font-size:0.3rem; }

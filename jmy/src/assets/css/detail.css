@@ -1,0 +1,13 @@
+  *{box-sizing:border-box}
+  .detail{margin-top: 1.4rem;
+    width:100%;
+    padding: 0.2rem;}
+  .detail dl{width:100%;
+  background: #ffccff;} 
+  .detail dl dt{ height: 4rem; width:100%;}
+  .detail dl dt img{ display:block;width:100%;}
+  .detail dl dd{ height: 2rem; width:100%;padding: 0.2rem}
+  .detail dl dd #info p:nth-child(1){font-size:0.30rem; color:#ff6699;}
+  .detail dl dd #info p:nth-child(2){font-size:0.30rem; color:grey;}
+    dl dd button{background: #ff6699;width:1rem;height:0.4rem;margin-top: 0.4rem;
+    border-radius: 10%;color:white;text-align: center;line-height: 0.4rem;font-size:0.2rem;}

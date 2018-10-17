@@ -1,0 +1,14 @@
+*{ box-sizing: border-box;}
+.song{ margin-top: 1.4rem;}
+#song_top{ width:6.4rem;  margin:0 auto;padding: 0.2rem;}
+#song_top p{display:block;width:100%;height: 1rem;display: flex; font-size: 0.32rem;
+padding: 0.1rem;line-height: 0.8rem;}
+#song_top p i { font-size: 0.6rem;color: #ff6699;}
+#song_top ul{ width:100%;height: 3rem; }
+#song_top ul li{float:left; width:50%;height: 1rem; border: 2px solid white;background: #e4f2ff} 
+#song_top ul li p {font-size:0.2rem;color: grey;}
+#song_list{width:6.4rem;  margin:0 auto;} 
+#song_list_title {width:100%;height: 1rem;display: flex; font-size: 0.32rem;
+padding: 0.3rem;line-height: 0.8rem;}
+#song_list_title i{ font-size: 0.6rem;color: #ff6699;}
+footer{ width:100%;height: 2rem;background: #eeeeee;}

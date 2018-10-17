@@ -1,0 +1,7 @@
+*{ box-sizing: border-box;}
+    .chatroom{width:6.4rem; margin:0 auto;}
+    .chatroom #cont{ width:6.4rem;margin-top: 1.4rem;padding:0.2rem;}
+    .chatroom #cont li{width:100%;background: #e4f2ff; margin-bottom: 0.5rem; }
+    .chatroom #cont li iframe{ width:6rem;height: 3.5rem;}
+    .chatroom #cont li #info{ width:100%; height:0.8rem;font-size:0.3rem;
+    line-height: 0.8rem;color:black;}

@@ -1,0 +1,31 @@
+[{
+	"title":"赖美云",
+	"id":1,
+	"name":"小七超级模仿秀",
+    "imgUrl":"../assets/images/laimeiyun4.jpg"
+},{
+	"title":"陈芳语 吴映香 李紫婷",
+	"id":2,
+	"name":"3A神级现场",
+	"imgUrl":"../assets/images/chenfangyu2.jpg"
+},{
+	"title":"创造101",
+	"id":3,
+	"name":"B班舞蹈练习室",
+	"imgUrl":"../assets/images/skill4.jpg"
+},{
+	"title":"蜜蜂少女队",
+	"id":4,
+	"name":"评级表演",
+	"imgUrl":"../assets/images/xumengjie2.jpg"
+},{
+	"title":"李紫婷",
+	"id":5,
+	"name":"红色高跟鞋超嗨现场",
+	"imgUrl":"../assets/images/liziting1.jpg"
+},{
+	"title":"蒋申",
+	"id":6,
+	"name":"摩天轮的眼泪",
+	"imgUrl":"../assets/images/jiangshen2.jpg"
+}]

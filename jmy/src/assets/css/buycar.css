@@ -1,0 +1,14 @@
+  .buycar{margin-top: 1.4rem;width:100%;padding: 0.2rem;}
+  .buycar #title{ width:6rem;height: 0.6rem;font-size:0.30rem;color: grey;
+  text-align: center;line-height: 0.6rem;background: #e4f2ff;}
+  .buycar dl{width:100%;height: 1.8rem;display: flex;justify-content:space-between;margin-top: 0.2rem;
+  background: #ffccff;padding: 0.1rem;} 
+  .buycar dl dt{ height: 100%; width:3rem;}
+  .buycar dl dt img{ display:block;height: 100%;}
+  .buycar dl dd{ height: 100%; width:3rem;}
+  .buycar dl dd #info p:nth-child(1){font-size:0.30rem; color:#ff6699;}
+  .buycar dl dd #info p:nth-child(2){font-size:0.30rem; color:grey;}
+  .buycar dl dd button{background: #ff6699;width:1rem;height:0.4rem;margin-top: 0.4rem;
+    border-radius: 10%;color:white;text-align: center;line-height: 0.4rem;font-size:0.2rem;}
+  #clearall{width:6rem;height: 0.6rem;font-size:0.30rem;color: grey;
+  text-align: center;line-height: 0.6rem;background: #e4f2ff;}
