@@ -6,7 +6,7 @@ export default class Header extends React.Component {
   render() {
     return <div className="nav">
         <div id="logo">
-          <span>101社区</span>
+          <span>上海天霸集团</span>
         </div>
         <ul>
           <li>
@@ -16,17 +16,17 @@ export default class Header extends React.Component {
           </li>
           <li>
             <NavLink to="/follow" activeClassName="active" tag="li">
-              <p>歌曲</p>
+              <p>活动</p>
             </NavLink>
           </li>
           <li>
             <NavLink to="/column" activeClassName="active" tag="li">
-              <p>舞蹈</p>
+              <p>交友</p>
             </NavLink>
           </li>
           <li>
             <NavLink to="/skill" activeClassName="active" tag="li">
-              <p>番外</p>
+              <p>招聘</p>
             </NavLink>
           </li>
         </ul>

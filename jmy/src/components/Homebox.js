@@ -16,6 +16,8 @@ import duanaojuan1 from "../assets/images/duanaojuan1.jpg";
 import wuxuanyi1 from "../assets/images/wuxuanyi1.jpg";
 import fujing2 from "../assets/images/fujing2.jpg";
 import fujing1 from "../assets/images/fujing1.jpg";
+import yangfeng1 from "../assets/images/yangfeng1.jpg";
+import yangfeng2 from "../assets/images/yangfeng2.jpg";
 
 export default class Homebox extends React.Component {
 //   constructor(props) {
@@ -28,18 +30,18 @@ export default class Homebox extends React.Component {
         <div id="recommend">
           <div id="recommend_title">
             <i className="iconfont">&#xe610;</i>
-            <p>Pick Me Up!</p>
+            <p>加入我们!</p>
           </div>
           <ul>
             <li>
-              <img src={qiyandi1} alt="" />
-              <span>戚砚笛</span>
-              <p>华谊兄弟</p>
+              <img src={yangfeng2} alt="" />
+              <span>公关部</span>
+              <p>集团颜值</p>
             </li>
             <li>
-              <img src={zining3} alt="" />
-              <span>紫宁</span>
-              <p>麦悦娱乐</p>
+              <img src={yangfeng1} alt="" />
+              <span>游戏部</span>
+              <p>Enchanted</p>
             </li>
             <li>
               <img src={laimeiyun2} alt="" />

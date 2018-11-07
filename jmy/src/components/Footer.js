@@ -11,7 +11,7 @@ export default class Footer extends React.Component {
             <NavLink to="/home" activeClassName="active" tag="li">
               <span>
                 <i className="iconfont">&#xe60d;</i>
-                <p>首页</p>
+                <p>集团首页</p>
               </span>
             </NavLink>
           </li>
@@ -27,7 +27,7 @@ export default class Footer extends React.Component {
             <NavLink to="/chatroom" activeClassName="active" tag="li">
             <span>
                 <i className="iconfont">&#xe601;</i>
-                <p>讨论区</p>
+                <p>姐妹讨论</p>
             </span>
             </NavLink>
           </li>
@@ -35,7 +35,7 @@ export default class Footer extends React.Component {
             <NavLink to="/buycar" activeClassName="active" tag="li">
             <span>
                 <i className="iconfont">&#xe609;</i>
-                <p>收藏</p>
+                <p>一键找鸭</p>
             </span>
             </NavLink>
           </li>

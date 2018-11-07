@@ -38,49 +38,6 @@ router.use('/add', function (req, res) {
     });
 });
     
-    
-    
-    
-    // db.query(
-    //     `SELECT * FROM userdata WHERE username="${username}"`,
-    //     (error, results) => {
-    //         if (error) throw error;
-    //         else {
-    //             if (results.length > 0) {
-    //                 res.send({ error: 1, msg: '用户名或密码错误' });
-    //                 return;
-    //             } else {
-    //                 //写库
-    //                 db.query(`INSERT INTO userdata(username,password) VALUES("${username}","${password}")`,
-    //                 (error) => {
-    //                     if (!error) {                    
-    //                         res.send({ error: 0, msg: '注册成功', username: username });
-    //                         return;
-    //                     }
-    //                 });
-    //             }
-    //         }
-    //     }
-    // )    
-
-
-    
-    // var sql = `select * from userdata`;
-    // connection.query(sql, function(error, results) {
-    //   if (error) throw error;
-    //   for (var i = 0; i < results.length; i++) {
-    //     if (results[i].username === username) {
-    //       res.send({ error: 1, msg: "用户名已存在" });
-    //       return;
-    //     }
-    //   }
-    //   var sql1 = `INSERT INTO userdata (username,password) VALUES('${username}','${password}') `;
-    //   connection.query(sql1, function(error, results) {
-    //     if (results) {
-    //       res.send({ error: 0, msg: "注册成功", username: username });
-    //     }
-    //   });
-    // });
 
 module.exports = router;
 
